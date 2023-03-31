@@ -14,4 +14,4 @@ If the Pokemon name entered by the user is not found in the PokeAPI, an error me
 
 Overall, this web application provides a simple and fun way for users to generate and download pixel art of their favorite Pokemon using the PokeAPI.
 
-Here's it is in action: https://cdkw2.github.io/pokemon_pixelart/
+Here it is in action: https://cdkw2.github.io/pokemon_pixelart/
